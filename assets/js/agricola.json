@@ -1,0 +1,60 @@
+[
+    {
+        "id": "aw",
+        "titulo": "AW IMPLEMENTO",
+        "subtitulo": "Série Agrícola",
+        "imagem": "images/products/AW.jpg",
+        "specs": {
+            "modelo": "O9012",
+            "tipo": "SC"
+        },
+        "tabela": [
+            { "medida": "10.5/65-16", "lonas": "14", "peso": "19 kg",  "vel": "A6", "carga": "1900/4190", "pressao": "5.3/77", "largura": "274 mm", "diam": "755 mm", "sulco": "8 mm" },
+            { "medida": "10.5/80-18", "lonas": "10", "peso": "24 kg", "vel": "A8", "carga": "2180/4510", "pressao": "5.1/65", "largura": "275 mm", "diam": "897 mm", "sulco": "25 mm" }
+        ],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=4",
+        "info": "docs/agricola/info_aw.pdf"
+    },
+    {
+        "id": "r1",
+        "titulo": "R1",
+        "subtitulo": "Série Agrícola",
+        "imagem": "images/products/R1.jpg",
+        "specs": {
+            "modelo": "O1351",
+            "tipo": "SC"
+        },
+    "tabela": [
+    { "medida": "12.4X24", "lonas": "12", "peso": "44 kg", "vel": "A6", "carga": "3520", "pressao": "3.3/48", "largura": "325 mm", "diam": "1165 mm", "sulco": "38,00 mm" },
+    { "medida": "12.4X28", "lonas": "12", "peso": "52 kg", "vel": "A6", "carga": "1275", "pressao": "2.3/36", "largura": "314 mm", "diam": "1257 mm", "sulco": "32,00 mm" },
+    { "medida": "14.9X24", "lonas": "12", "peso": "54 kg", "vel": "A6", "carga": "3970", "pressao": "2.6/38", "largura": "407 mm", "diam": "1278 mm", "sulco": "37,50 mm" },
+    { "medida": "14.9X26", "lonas": "12", "peso": "62 kg", "vel": "A6", "carga": "2240", "pressao": "3.3/48", "largura": "375,92 mm", "diam": "1229 mm", "sulco": "37,50 mm" },
+    { "medida": "14.9x28", "lonas": "14", "peso": "72 kg", "vel": "A6", "carga": "4670", "pressao": "2.3/33", "largura": "403 mm", "diam": "1385 mm", "sulco": "38,00 mm" },
+    { "medida": "16.9X24", "lonas": "12", "peso": "74,5 kg", "vel": "A6", "carga": "3270", "pressao": "2.3/33", "largura": "450 mm", "diam": "1312 mm", "sulco": "38,00 mm" },
+    { "medida": "16.9x28", "lonas": "12", "peso": "78,5 kg", "vel": "A6", "carga": "2180", "pressao": "2.6/38", "largura": "441 mm", "diam": "1442 mm", "sulco": "42,00 mm" },
+    { "medida": "16.9X30", "lonas": "12", "peso": "84 kg", "vel": "A6", "carga": "2245", "pressao": "2.3/35", "largura": "429 mm", "diam": "1493 mm", "sulco": "38,00 mm" },
+    { "medida": "18.4X30", "lonas": "16", "peso": "98 kg", "vel": "A8", "carga": "8247", "pressao": "2.5/36", "largura": "516 mm", "diam": "1589 mm", "sulco": "41,00 mm" },
+    { "medida": "18.4X34", "lonas": "16", "peso": "108 kg", "vel": "A6", "carga": "7650", "pressao": "2.3/35", "largura": "519 mm", "diam": "1609 mm", "sulco": "38,50 mm" },
+    { "medida": "23.1X30", "lonas": "16", "peso": "160 kg", "vel": "A6", "carga": "3460", "pressao": "2.3/33", "largura": "607 mm", "diam": "1719 mm", "sulco": "41,30 mm" },
+    { "medida": "24.5X32", "lonas": "16", "peso": "142 kg", "vel": "A6", "carga": "11685", "pressao": "2.3/33", "largura": "644 mm", "diam": "1845 mm", "sulco": "43,80 mm" }
+],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=3",
+        "info": "docs/agricola/info_r1.pdf"
+    },
+    {
+        "id": "f2",
+        "titulo": "F2",
+        "subtitulo": "Série Agrícola",
+        "imagem": "images/products/F2.jpg",
+        "specs": {
+            "modelo": "F9014",
+            "tipo": "SC"
+        },
+        "tabela": [
+            { "medida": "7.50-16", "lonas": "12", "peso": "16 kg", "vel": "A8", "carga": "870", "pressao": "5.5/80", "largura": "213", "diam": "822 mm", "sulco": "13,5 mm" },
+            { "medida": "9.00-16", "lonas": "12", "peso": "23 kg", "vel": "A8", "carga": "1250", "pressao": "5.5/80", "largura": "238", "diam": "849 mm", "sulco": "11,7 mm" }
+        ],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=4",
+        "info": "docs/agricola/info_f2.pdf"
+    }
+]

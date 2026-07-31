@@ -1,0 +1,73 @@
+[
+    {
+        "id": "g2l2",
+        "titulo": "G2/L2",
+        "subtitulo": "Série OTR",
+        "imagem": "images/products/G2L2.jpg",
+        "specs": {
+            "modelo": "O9010",
+            "sulco": "25 mm",
+            "tipo": "SC",
+            "vel": "A8"
+        },
+        "tabela": [
+            { "medida": "13.00X24", "lonas": "16", "peso": "72 kg", "vel": "A8", "carga": "2.725 kg", "pressao": "4.00/58", "largura": "362 mm", "diam": "1316 mm" },
+            { "medida": "14.00X24", "lonas": "16", "peso": "80 kg", "vel": "A8", "carga": "3.650 kg", "pressao": "3.7/54", "largura": "385 mm", "diam": "1380 mm" },
+            { "medida": "14.00X24", "lonas": "28", "peso": "86 kg", "vel": "A8", "carga": "8.567 kg", "pressao": "3.7/54", "largura": "395 mm", "diam": "1410 mm" },
+            { "medida": "17.5X25", "lonas": "16", "peso": "97 kg", "vel": "A8", "carga": "6.150 kg", "pressao": "2.75/40", "largura": "456 mm", "diam": "1360 mm" }
+        ],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=2",
+        "info": "docs/otr/info_g2l2.pdf"
+    },
+    {
+        "id": "e3l3",
+        "titulo": "E3/L3",
+        "subtitulo": "Série OTR",
+        "imagem": "images/products/E3L3.jpg",
+        "specs": {
+            "modelo": "O9011",
+            "tipo": "SC"
+        },
+        "tabela": [
+            { "medida": "14.00X24", "lonas": "24", "peso": "108,5 kg", "vel": "A2", "carga": "3.650 kg", "pressao": "5.1/80", "largura": "375", "diam": "1370 mm", "sulco": "26 mm" },
+            { "medida": "17.5X25", "lonas": "16", "peso": "116,5 kg", "vel": "A2", "carga": "7.300 kg", "pressao": "5.7/83", "largura": "465", "diam": "1348 mm", "sulco": "26 mm" },
+            { "medida": "17.5X25", "lonas": "20", "peso": "121,5 kg", "vel": "A2", "carga": "8.185 kg", "pressao": "5.7/83", "largura": "456", "diam": "1367 mm", "sulco": "26 mm" },
+            { "medida": "20.5X25", "lonas": "20", "peso": "188 kg", "vel": "A2", "carga": "10.300 kg", "pressao": "76", "largura": "551", "diam": "1496 mm", "sulco": "28 mm" },
+            { "medida": "23.5X25", "lonas": "24", "peso": "182 kg", "vel": "E3", "carga": "12.500 kg", "pressao": "4.75/76", "largura": "595", "diam": "1615 mm", "sulco": "30 mm" }
+        ],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=2",
+        "info": "docs/otr/info_e3l3.pdf"
+    },
+    {
+        "id": "l2",
+        "titulo": "L2",
+        "subtitulo": "Série OTR",
+        "imagem": "images/products/L2.jpg",
+        "specs": {
+            "modelo": "O5410",
+            "tipo": "SC"
+        },
+        "tabela": [
+            { "medida": "10X16.5", "lonas": "12", "peso": "36 kg", "vel": "A2", "carga": "4.700 kg", "pressao": "5.2/75", "largura": "286", "diam": "786 mm", "sulco": "19,5 mm" },
+            { "medida": "12X16.5", "lonas": "14", "peso": "46 kg", "vel": "A8", "carga": "6.400 kg", "pressao": "5.5/80", "largura": "361", "diam": "930 mm", "sulco": "23,48 mm" },
+            { "medida": "14X17.5", "lonas": "14", "peso": "50,5 kg", "vel": "A2", "carga": "3.875 kg", "pressao": "5.5/80", "largura": "351", "diam": "922 mm" , "sulco": "22,5 mm" }
+        ],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=2",
+        "info": "docs/otr/info_l2.pdf"
+    },
+    {
+        "id": "c1",
+        "titulo": "C1",
+        "subtitulo": "Série OTR",
+        "imagem": "images/products/pneu_c.jpg",
+        "specs": {
+            "modelo": "C9001",
+            "tipo": "SC"
+        },
+        "tabela": [
+            { "medida": "13.00-24", "lonas": "18", "peso": "104 kg", "vel": "A8", "carga": "7.385 kg", "pressao": "4.00/58", "largura": "362", "diam": "1276 mm", "sulco": "28 mm" }
+        ],
+        "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=4",
+        "info": "docs/otr/info_c1.pdf"
+    }
+]
