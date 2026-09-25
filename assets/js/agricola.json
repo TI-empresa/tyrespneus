@@ -1,8 +1,9 @@
 [
     {
         "id": "aw",
+        "categoria": "agricola",
         "titulo": "AW IMPLEMENTO",
-        "subtitulo": "Série Agrícola",
+        "subtitulo": "LINHA AGRÍCOLA",
         "imagem": "images/products/AW.jpg",
         "specs": {
             "modelo": "O9012",
@@ -17,8 +18,9 @@
     },
     {
         "id": "r1",
+        "categoria": "agricola",
         "titulo": "R1",
-        "subtitulo": "Série Agrícola",
+        "subtitulo": "LINHA AGRÍCOLA",
         "imagem": "images/products/R1.jpg",
         "specs": {
             "modelo": "O1351",
@@ -45,8 +47,9 @@
     },
     {
         "id": "f2",
+        "categoria": "agricola",
         "titulo": "F2",
-        "subtitulo": "Série Agrícola",
+        "subtitulo": "LINHA AGRÍCOLA",
         "imagem": "images/products/F2.jpg",
         "specs": {
             "modelo": "F9014",
