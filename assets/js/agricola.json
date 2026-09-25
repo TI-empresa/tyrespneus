@@ -53,6 +53,7 @@
             "tipo": "SC"
         },
         "tabela": [
+           { "medida": "6.50-16", "lonas": "8", "peso": "8,5 kg", "vel": "A8", "carga": "820", "pressao": "5.4/77", "largura": "182", "diam": "719 mm", "sulco": "11,00 mm" }
             { "medida": "7.50-16", "lonas": "12", "peso": "16 kg", "vel": "A8", "carga": "870", "pressao": "5.5/80", "largura": "213", "diam": "822 mm", "sulco": "13,5 mm" },
             { "medida": "9.00-16", "lonas": "12", "peso": "23 kg", "vel": "A8", "carga": "1250", "pressao": "5.5/80", "largura": "238", "diam": "849 mm", "sulco": "11,7 mm" }
         ],
