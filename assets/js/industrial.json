@@ -1,23 +1,25 @@
 [
     {
         "id": "mpt",
+        "categoria": "agro-industrial",
         "titulo": "M.P.T",
-        "subtitulo": "Série Agro-Industrial",
+        "subtitulo": "AGRO-INDUSTRIAL",
         "imagem": "images/products/pneu_mpt.jpg",
         "specs": {
             "modelo": "O4510",
             "tipo": "SC"
         },
         "tabela": [
-            { "medida": "12,5/80X18", "lonas": "16", "peso": "42 kg",  "vel": "A8", "carga": "6.940 kg", "pressao": "4.9/71", "largura": "320 mm", "diam": "1005 mm", "sulco": "25,50 mm" }
+            { "medida": "12,5/80X18", "lonas": "16", "peso": "42 kg", "vel": "A8", "carga": "6.940 kg", "pressao": "4.9/71", "largura": "320 mm", "diam": "1005 mm", "sulco": "25,50 mm" }
         ],
         "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=3",
         "info": "docs/agricola/info_mpt.pdf"
     },
     {
         "id": "r4",
+        "categoria": "agro-industrial",
         "titulo": "R4",
-        "subtitulo": "Série Agro-Industrial",
+        "subtitulo": "AGRO-INDUSTRIAL",
         "imagem": "images/products/R4.jpg",
         "specs": {
             "modelo": "O4510",
