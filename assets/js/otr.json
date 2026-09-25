@@ -29,9 +29,9 @@
             "tipo": "SC"
         },
         "tabela": [
-            { "medida": "14.00X24", "lonas": "24", "peso": "108,5 kg", "vel": "A2", "carga": "3.650 kg", "pressao": "5.1/80", "largura": "375", "diam": "1370 mm", "sulco": "26 mm" },
-            { "medida": "17.5X25", "lonas": "16", "peso": "116,5 kg", "vel": "A2", "carga": "7.300 kg", "pressao": "5.7/83", "largura": "465", "diam": "1348 mm", "sulco": "26 mm" },
-            { "medida": "17.5X25", "lonas": "20", "peso": "121,5 kg", "vel": "A2", "carga": "8.185 kg", "pressao": "5.7/83", "largura": "456", "diam": "1367 mm", "sulco": "26 mm" },
+            { "medida": "14.00X24", "lonas": "24", "peso": "108,5 kg", "vel": "A2", "carga": "3.650 kg", "pressao": "5.1/80", "largura": "375", "diam": "1370 mm", "sulco": "28 mm" },
+            { "medida": "17.5X25", "lonas": "16", "peso": "116,5 kg", "vel": "A2", "carga": "7.300 kg", "pressao": "5.7/83", "largura": "445", "diam": "1348 mm", "sulco": "26 mm" },
+            { "medida": "17.5X25", "lonas": "20", "peso": "121,5 kg", "vel": "A2", "carga": "8.185 kg", "pressao": "5.7/83", "largura": "465", "diam": "1367 mm", "sulco": "26 mm" },
             { "medida": "20.5X25", "lonas": "20", "peso": "188 kg", "vel": "A2", "carga": "10.300 kg", "pressao": "76", "largura": "551", "diam": "1496 mm", "sulco": "28 mm" },
             { "medida": "23.5X25", "lonas": "24", "peso": "182 kg", "vel": "E3", "carga": "12.500 kg", "pressao": "4.75/76", "largura": "595", "diam": "1615 mm", "sulco": "30 mm" }
         ],
