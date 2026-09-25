@@ -26,7 +26,7 @@
         "tabela": [
             { "medida": "16.9X24", "lonas": "12", "peso": "74,5 kg", "vel": "A6", "carga": "3.270 kg", "pressao": "2.3/33", "largura": "450 mm", "diam": "1312 mm", "sulco": "38,00 mm" },
             { "medida": "16,9X28", "lonas": "12", "peso": "90,5 kg", "vel": "A6", "carga": "2.180 kg", "pressao": "2.6/38", "largura": "441 mm", "diam": "1442 mm", "sulco": "42,00 mm" },
-            { "medida": "19,5X24", "lonas": "16", "peso": "92 kg", "vel": "A8", "carga": "9.090 kg", "pressao": "2.9/42", "largura": "489 mm", "diam": "1336 mm", "sulco": "28,00 mm" }
+            { "medida": "19,5X24", "lonas": "16", "peso": "92 kg", "vel": "A8", "carga": "9.090 kg", "pressao": "2.9/42", "largura": "489 mm", "diam": "1336 mm", "sulco": "28,00 mm" },
             { "medida": "19,5X24", "lonas": "16", "peso": "92 kg", "vel": "A8", "carga": "9.090 kg", "pressao": "2.9/42", "largura": "495 mm", "diam": "1336 mm", "sulco": "28,00 mm" }
         ],
         "pdfLink": "docs/CATÁLOGO SPEEDROAD 2026.pdf#page=3",
